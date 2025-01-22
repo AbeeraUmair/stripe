@@ -14,5 +14,5 @@ export default function PaymentSuccess({
           </div>
         </div>
       </main>
-    );
-  }
+);
+}
